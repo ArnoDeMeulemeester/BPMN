@@ -1,0 +1,36 @@
+onderwerp kiezen - student
+bpc contacteren - student
+promotor toewijzen - bpc
+	contactgegevens promotor delen - bpc
+promotor contacteren - student
+
+co-promotor zoeken - student 			co-promotor toewijzen - bpc
+
+voorstel maken - student
+voorstel indienen - student
+voorstel evalueren - promotor
+feedback promotor krijgen - student
+
+VOORSTEL AFGEKEURD
+feedback verwerken - student
+verbeterd voorstel indienen - student
+voorstel evalueren - promotor
+
+VOORSTEL GOEDGEKEURD:
+literatuurstudie - student
+feedback promotor krijgen - student
+co-promotor consulteren - student
+student bijstaan - co-promotor
+
+draft BP maken - student
+draft BP naar promotor mailen - student
+feedback op draft - promotor
+
+feedback op finale draft - co-promotor
+
+DRAFT GOEDGEKEURD
+bachelorproef (+poster & presentatie) indienen - student
+bachelorproef evalueren - promotor
+
+BP verdedigen - student
+BP evalueren - jury
